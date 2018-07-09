@@ -11,7 +11,7 @@
 </resultMap>
 
 <select id="findByUserName" resultMap="User">
-	select * from t_user where username = #{userName}
+  select * from t_user where username = #{userName}
 </select>
 
 </mapper>

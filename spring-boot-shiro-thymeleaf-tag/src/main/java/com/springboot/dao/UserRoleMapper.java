@@ -1,12 +1,19 @@
 package com.springboot.dao;
 
-import java.util.List;
-
-import org.apache.ibatis.annotations.Mapper;
 import com.springboot.pojo.Role;
+import java.util.List;
+import org.apache.ibatis.annotations.Mapper;
 
+/**
+ * @author litz-a
+ */
 @Mapper
 public interface UserRoleMapper {
-	
-	List<Role> findByUserName(String userName);
+
+  /**
+   * findByUserName
+   * @param userName
+   * @return
+   */
+  List<Role> findByUserName(String userName);
 }

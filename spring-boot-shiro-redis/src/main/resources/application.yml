@@ -73,7 +73,7 @@ spring:
       content-type: text/html
 
   redis:
-    host: localhost
+    host: 192.168.144.29
     port: 6379
     jedis:
      pool:
@@ -81,7 +81,7 @@ spring:
       max-wait: -1ms
       max-idle: 8
       min-idle: 0
-    timeout: 0ms
+    timeout: 0
 
 mybatis:
   # type-aliases扫描路径

@@ -100,14 +100,25 @@ public class ShiroConfig {
    * https://mrbird.cc/Spring-Boot-Shiro%20cache.html
    * @return
    */
+  @Bean
   public RedisManager redisManager() {
     RedisManager redisManager = new RedisManager();
     return redisManager;
   }
 
+  /**
+   * redis 管理,加载自定义属性
+   */
+  @Bean
+  public CustomRedisManager customRedisManager() {
+    CustomRedisManager customRedisManager = new CustomRedisManager();
+    return customRedisManager;
+  }
+
+  @Bean
   public RedisCacheManager cacheManager() {
     RedisCacheManager redisCacheManager = new RedisCacheManager();
-    redisCacheManager.setRedisManager(redisManager());
+    redisCacheManager.setRedisManager(customRedisManager());
     return redisCacheManager;
   }
 
