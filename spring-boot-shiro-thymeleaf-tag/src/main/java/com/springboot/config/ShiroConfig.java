@@ -74,6 +74,7 @@ public class ShiroConfig {
   }
 
   public SimpleCookie rememberMeCookie() {
+    // 浏览器看到的cookie名称,可任意修改名称
     SimpleCookie cookie = new SimpleCookie("rememberMe");
     cookie.setMaxAge(86400);
     return cookie;
