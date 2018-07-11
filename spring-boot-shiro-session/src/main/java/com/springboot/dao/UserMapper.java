@@ -1,10 +1,18 @@
 package com.springboot.dao;
 
+import com.springboot.pojo.User;
 import org.apache.ibatis.annotations.Mapper;
 
-import com.springboot.pojo.User;
-
+/**
+ * @author litz-a
+ */
 @Mapper
 public interface UserMapper {
-	User findByUserName(String userName);
+
+  /**
+   * findByUserName
+   * @param userName
+   * @return
+   */
+  User findByUserName(String userName);
 }

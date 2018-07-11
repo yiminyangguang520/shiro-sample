@@ -1,11 +1,23 @@
 package com.springboot.service;
 
+import com.springboot.pojo.UserOnline;
 import java.util.List;
 
-import com.springboot.pojo.UserOnline;
-
+/**
+ * @author litz-a
+ */
 public interface SessionService {
-	
-	List<UserOnline> list();
-	boolean forceLogout(String sessionId);
+
+  /**
+   * list
+   * @return
+   */
+  List<UserOnline> list();
+
+  /**
+   * forceLogout
+   * @param sessionId
+   * @return
+   */
+  boolean forceLogout(String sessionId);
 }
