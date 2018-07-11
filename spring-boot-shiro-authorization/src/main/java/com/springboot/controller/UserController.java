@@ -5,6 +5,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+/**
+ * @author litz-a
+ */
 @Controller
 @RequestMapping("/user")
 public class UserController {
