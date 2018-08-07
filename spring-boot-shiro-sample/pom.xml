@@ -77,6 +77,12 @@
       <version>${spring-boot.version}</version>
     </dependency>
 
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.16.22</version>
+    </dependency>
+
     <!--<dependency>-->
     <!--&lt;!&ndash; Required for any libraries that expect to call the commons logging APIs &ndash;&gt;-->
     <!--<groupId>org.slf4j</groupId>-->

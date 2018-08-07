@@ -24,13 +24,38 @@ import java.util.Collection;
  */
 public interface StormtrooperDao {
 
+  /**
+   * listStormtroopers
+   * @return
+   */
   Collection<Stormtrooper> listStormtroopers();
 
+  /**
+   * getStormtrooper
+   * @param id
+   * @return
+   */
   Stormtrooper getStormtrooper(String id);
 
+  /**
+   * addStormtrooper
+   * @param stormtrooper
+   * @return
+   */
   Stormtrooper addStormtrooper(Stormtrooper stormtrooper);
 
+  /**
+   * updateStormtrooper
+   * @param id
+   * @param stormtrooper
+   * @return
+   */
   Stormtrooper updateStormtrooper(String id, Stormtrooper stormtrooper);
 
+  /**
+   * deleteStormtrooper
+   * @param id
+   * @return
+   */
   boolean deleteStormtrooper(String id);
 }
