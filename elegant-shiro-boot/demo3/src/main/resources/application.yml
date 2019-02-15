@@ -1,0 +1,13 @@
+server:
+  port: 8888
+  servlet:
+    context-path: /api/v1
+  tomcat:
+    uri-encoding: UTF-8
+spring:
+  profiles:
+    active: dev
+    include: shiro
+  http:
+    encoding:
+      force: true

@@ -10,3 +10,7 @@ curl --user emperor:secret http://localhost:8080/troopers
 ```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+# reference
+
+https://dzone.com/articles/protecting-a-spring-boot-app-with-apache-shiro
