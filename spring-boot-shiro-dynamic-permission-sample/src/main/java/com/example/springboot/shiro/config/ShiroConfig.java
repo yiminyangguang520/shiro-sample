@@ -26,7 +26,7 @@ import org.springframework.web.filter.DelegatingFilterProxy;
 import redis.clients.jedis.JedisPool;
 
 /**
- * @author litz-a
+ * @author min
  */
 @Configuration
 public class ShiroConfig {

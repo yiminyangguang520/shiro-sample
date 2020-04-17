@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class ResponseBo extends HashMap<String, Object> {
 

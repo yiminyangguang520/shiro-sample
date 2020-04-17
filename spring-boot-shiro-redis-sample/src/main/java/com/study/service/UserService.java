@@ -4,7 +4,7 @@ import com.github.pagehelper.PageInfo;
 import com.study.model.User;
 
 /**
- * @author litz-a
+ * @author min
  * Created by yangqj on 2017/4/21.
  */
 public interface UserService extends IService<User> {

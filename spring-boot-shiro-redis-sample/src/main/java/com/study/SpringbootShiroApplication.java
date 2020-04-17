@@ -6,7 +6,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 import tk.mybatis.spring.annotation.MapperScan;
 
 /**
- * @author litz-a
+ * @author min
  */
 @SpringBootApplication
 @EnableTransactionManagement

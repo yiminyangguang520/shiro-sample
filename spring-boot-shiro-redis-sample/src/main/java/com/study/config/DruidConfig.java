@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author litz-a
+ * @author min
  * Created by yangqj on 2017/4/19.
  */
 @Configuration

@@ -26,7 +26,7 @@ import org.apache.shiro.web.session.mgt.DefaultWebSessionManager;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class PasswordRealm extends AuthorizingRealm {
 

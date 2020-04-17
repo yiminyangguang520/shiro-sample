@@ -1,7 +1,7 @@
 package org.crazycake.shiroredisspringboottutorial.model;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class LoginForm {
 

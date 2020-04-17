@@ -5,7 +5,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class SpringUtil implements ApplicationContextAware {
 

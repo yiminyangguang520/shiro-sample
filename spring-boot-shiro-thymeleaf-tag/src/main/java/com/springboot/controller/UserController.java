@@ -6,7 +6,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * @author litz-a
+ * @author min
  */
 @Controller
 @RequestMapping("/user")

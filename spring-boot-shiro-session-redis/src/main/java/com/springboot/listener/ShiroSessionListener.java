@@ -5,7 +5,7 @@ import org.apache.shiro.session.Session;
 import org.apache.shiro.session.SessionListener;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class ShiroSessionListener implements SessionListener {
 

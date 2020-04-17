@@ -7,7 +7,7 @@ import shiro.entity.User;
 
 /**
  * created by CaiBaoHong at 2018/4/18 16:08<br>
- * @author litz-a
+ * @author min
  */
 @Service
 public class UserService {

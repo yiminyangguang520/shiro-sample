@@ -1,7 +1,7 @@
 package org.inlighting.bean;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class ResponseBean {
 

@@ -4,7 +4,7 @@ package org.inlighting.shiro;
 import org.apache.shiro.authc.AuthenticationToken;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class JwtToken implements AuthenticationToken {
 

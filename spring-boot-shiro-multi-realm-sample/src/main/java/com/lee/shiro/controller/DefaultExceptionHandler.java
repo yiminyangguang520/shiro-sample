@@ -12,7 +12,7 @@ import org.springframework.web.context.request.NativeWebRequest;
 import org.springframework.web.context.request.ServletWebRequest;
 
 /**
- * @author litz-a
+ * @author min
  */
 @ControllerAdvice
 public class DefaultExceptionHandler {

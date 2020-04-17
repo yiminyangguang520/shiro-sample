@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 import shiro.shiro.CustomRealm;
 
 /**
- * @author litz-a
+ * @author min
  */
 @Configuration
 public class ShiroConfig {

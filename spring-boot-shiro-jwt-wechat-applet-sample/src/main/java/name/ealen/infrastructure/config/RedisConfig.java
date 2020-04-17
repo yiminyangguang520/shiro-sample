@@ -10,7 +10,7 @@ import org.springframework.data.redis.connection.RedisConnectionFactory;
 /**
  * Created by EalenXie on 2018-03-23 07:37
  * RedisConfig的配置类
- * @author litz-a
+ * @author min
  */
 @Configuration
 @EnableCaching

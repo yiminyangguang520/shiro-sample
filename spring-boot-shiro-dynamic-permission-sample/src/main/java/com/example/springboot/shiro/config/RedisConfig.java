@@ -8,7 +8,7 @@ import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.JedisPoolConfig;
 
 /**
- * @author litz-a
+ * @author min
  */
 @Configuration
 public class RedisConfig {

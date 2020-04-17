@@ -6,7 +6,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * @author litz-a
+ * @author min
  */
 @Table(name = "role_resources")
 public class RoleResources implements Serializable {

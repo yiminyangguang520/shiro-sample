@@ -22,7 +22,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.DependsOn;
 
 /**
- * @author litz-a
+ * @author min
  */
 @Configuration
 public class ShiroSecurityConfig {

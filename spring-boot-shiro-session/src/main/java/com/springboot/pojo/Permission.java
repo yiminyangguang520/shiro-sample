@@ -3,7 +3,7 @@ package com.springboot.pojo;
 import java.io.Serializable;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class Permission implements Serializable {
 

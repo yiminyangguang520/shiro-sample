@@ -5,7 +5,7 @@ import com.alibaba.fastjson.JSONObject;
 import java.util.ArrayList;
 
 /**
- * @author litz-a
+ * @author min
  */
 public enum JSONUtil {
   ;

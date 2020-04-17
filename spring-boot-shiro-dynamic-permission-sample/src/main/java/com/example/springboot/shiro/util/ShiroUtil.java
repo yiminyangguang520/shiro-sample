@@ -13,7 +13,7 @@ import org.apache.shiro.web.mgt.DefaultWebSecurityManager;
 import org.crazycake.shiro.RedisSessionDAO;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class ShiroUtil {
 

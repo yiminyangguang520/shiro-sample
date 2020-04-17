@@ -3,7 +3,7 @@ package org.crazycake.shiroredisspringboottutorial.model;
 import java.io.Serializable;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class UserInfo implements Serializable {
 

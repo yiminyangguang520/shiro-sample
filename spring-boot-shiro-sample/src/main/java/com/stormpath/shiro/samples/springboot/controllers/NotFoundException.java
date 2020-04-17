@@ -1,7 +1,7 @@
 package com.stormpath.shiro.samples.springboot.controllers;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class NotFoundException extends Exception {
 

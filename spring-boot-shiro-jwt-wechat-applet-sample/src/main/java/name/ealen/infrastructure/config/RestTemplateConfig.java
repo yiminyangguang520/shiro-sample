@@ -9,7 +9,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * Created by EalenXie on 2018-03-23 07:37
  * RestTemplate的配置类
- * @author litz-a
+ * @author min
  */
 @Configuration
 public class RestTemplateConfig {

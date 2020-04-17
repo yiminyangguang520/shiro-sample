@@ -15,7 +15,7 @@ import tk.mybatis.mapper.entity.Example;
 import tk.mybatis.mapper.util.StringUtil;
 
 /**
- * @author litz-a
+ * @author min
  * Created by yangqj on 2017/4/21.
  */
 @Service("userService")

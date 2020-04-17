@@ -10,7 +10,7 @@ import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.JedisPoolConfig;
 
 /**
- * @author litz-a
+ * @author min
  * Created by yangqj on 2017/4/30.
  */
 @Slf4j

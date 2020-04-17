@@ -30,7 +30,7 @@ import org.crazycake.shiro.RedisSessionDAO;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
- * @author litz-a
+ * @author min
  * Created by yangqj on 2017/4/21.
  */
 public class MyShiroRealm extends AuthorizingRealm {

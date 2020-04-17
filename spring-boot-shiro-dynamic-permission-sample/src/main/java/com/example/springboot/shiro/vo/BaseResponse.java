@@ -1,7 +1,7 @@
 package com.example.springboot.shiro.vo;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class BaseResponse<T> {
 

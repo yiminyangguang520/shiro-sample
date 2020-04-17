@@ -20,7 +20,7 @@ import java.util.Collection;
 
 /**
  * Example CRUD DAO interface.
- * @author litz-a
+ * @author min
  */
 public interface StormtrooperDao {
 

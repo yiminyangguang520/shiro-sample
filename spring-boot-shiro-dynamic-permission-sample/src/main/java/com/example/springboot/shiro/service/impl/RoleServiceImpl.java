@@ -18,7 +18,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 
 /**
- * @author litz-a
+ * @author min
  */
 @Service("roleService")
 public class RoleServiceImpl implements RoleService {

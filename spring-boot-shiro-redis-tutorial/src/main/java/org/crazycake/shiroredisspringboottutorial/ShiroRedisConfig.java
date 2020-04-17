@@ -4,7 +4,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 
 /**
- * @author litz-a
+ * @author min
  */
 @Configuration
 @PropertySource("classpath:application.properties")

@@ -30,7 +30,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import tk.mybatis.mapper.common.Mapper;
 
 /**
- * @author litz-a
+ * @author min
  * Created by liuzh on 2014/12/11.
  */
 public abstract class BaseService<T> implements IService<T> {

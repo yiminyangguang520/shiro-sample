@@ -15,7 +15,7 @@ import shiro.vo.Json;
 
 /**
  * 统一捕捉shiro的异常，返回给前台一个json信息，前台根据这个信息显示对应的提示，或者做页面的跳转。
- * @author litz-a
+ * @author min
  */
 @ControllerAdvice
 public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {

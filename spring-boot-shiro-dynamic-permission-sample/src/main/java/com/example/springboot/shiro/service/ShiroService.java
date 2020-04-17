@@ -4,7 +4,7 @@ import java.util.Map;
 import org.apache.shiro.spring.web.ShiroFilterFactoryBean;
 
 /**
- * @author litz-a
+ * @author min
  */
 public interface ShiroService {
 

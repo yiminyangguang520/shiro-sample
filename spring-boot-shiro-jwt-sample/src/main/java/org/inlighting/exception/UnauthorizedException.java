@@ -1,7 +1,7 @@
 package org.inlighting.exception;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class UnauthorizedException extends RuntimeException {
 

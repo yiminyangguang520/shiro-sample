@@ -5,7 +5,7 @@ import javax.persistence.Column;
 import javax.persistence.Table;
 
 /**
- * @author litz-a
+ * @author min
  */
 @Table(name = "user_role")
 public class UserRole implements Serializable {

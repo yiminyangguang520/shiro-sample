@@ -19,7 +19,7 @@ import shiro.vo.Json;
  *
  * 通过对指定的路径应用"anon"来告诉shiro哪些请求可以匿名访问；
  *
- * @author litz-a
+ * @author min
  */
 @RestController
 @RequestMapping("/page")

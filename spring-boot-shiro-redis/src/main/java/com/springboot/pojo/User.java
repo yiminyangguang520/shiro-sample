@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class User implements Serializable {
 

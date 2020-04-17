@@ -1,7 +1,7 @@
 package com.example.springboot.shiro.entity;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class RoleAuthority {
 

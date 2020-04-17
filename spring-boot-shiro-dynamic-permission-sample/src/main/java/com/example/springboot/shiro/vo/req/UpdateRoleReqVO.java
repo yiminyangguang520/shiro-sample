@@ -3,7 +3,7 @@ package com.example.springboot.shiro.vo.req;
 import java.util.List;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class UpdateRoleReqVO {
 

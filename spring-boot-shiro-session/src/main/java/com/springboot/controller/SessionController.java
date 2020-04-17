@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 
 /**
- * @author litz-a
+ * @author min
  */
 @Controller
 @RequestMapping("/online")

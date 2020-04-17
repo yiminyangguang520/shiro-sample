@@ -12,7 +12,7 @@ import org.apache.shiro.web.filter.authz.RolesAuthorizationFilter;
 import org.springframework.http.HttpMethod;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class CustomRolesAuthorizationFilter extends RolesAuthorizationFilter {
 

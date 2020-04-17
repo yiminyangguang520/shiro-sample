@@ -5,7 +5,7 @@ import com.example.springboot.shiro.vo.req.UpdateRoleReqVO;
 import java.util.List;
 
 /**
- * @author litz-a
+ * @author min
  */
 public interface RoleService {
 

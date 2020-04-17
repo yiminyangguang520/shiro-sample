@@ -4,7 +4,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class MD5Util {
 

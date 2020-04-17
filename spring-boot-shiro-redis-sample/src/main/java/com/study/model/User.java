@@ -6,7 +6,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class User implements Serializable {
 

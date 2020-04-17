@@ -5,7 +5,7 @@ import java.util.List;
 import org.apache.ibatis.annotations.Mapper;
 
 /**
- * @author litz-a
+ * @author min
  */
 @Mapper
 public interface UserRoleMapper {

@@ -8,7 +8,7 @@ import org.apache.shiro.crypto.hash.SimpleHash;
 import org.apache.shiro.util.ByteSource;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class PasswordHelper {
 

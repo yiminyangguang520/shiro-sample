@@ -26,7 +26,7 @@ import java.util.List;
 import org.springframework.stereotype.Service;
 
 /**
- * @author litz-a
+ * @author min
  * 通用接口
  */
 @Service

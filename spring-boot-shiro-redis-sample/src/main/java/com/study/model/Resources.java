@@ -8,7 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.Transient;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class Resources implements Serializable {
 

@@ -2,7 +2,7 @@ package shiro.constant;
 
 /**
  * created by CaiBaoHong at 2018/4/18 11:07<br> 响应的code
- * @author litz-a
+ * @author min
  */
 public interface Codes {
 

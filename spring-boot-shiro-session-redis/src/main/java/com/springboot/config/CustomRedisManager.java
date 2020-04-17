@@ -4,7 +4,7 @@ import org.crazycake.shiro.RedisManager;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author litz-a
+ * @author min
  */
 @ConfigurationProperties(prefix = "spring.redis")
 public class CustomRedisManager extends RedisManager {

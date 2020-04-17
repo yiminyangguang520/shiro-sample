@@ -5,7 +5,7 @@ import com.study.util.MyMapper;
 import java.util.List;
 
 /**
- * @author litz-a
+ * @author min
  */
 public interface UserRoleMapper extends MyMapper<UserRole> {
 

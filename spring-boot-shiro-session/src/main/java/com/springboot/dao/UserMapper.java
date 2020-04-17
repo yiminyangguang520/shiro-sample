@@ -4,7 +4,7 @@ import com.springboot.pojo.User;
 import org.apache.ibatis.annotations.Mapper;
 
 /**
- * @author litz-a
+ * @author min
  */
 @Mapper
 public interface UserMapper {

@@ -4,7 +4,7 @@ import java.util.Map;
 import org.springframework.stereotype.Component;
 
 /**
- * @author litz-a
+ * @author min
  */
 @Component
 public class UserService {

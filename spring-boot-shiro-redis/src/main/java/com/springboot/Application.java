@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 /**
- * @author litz-a
+ * @author min
  */
 @EnableAutoConfiguration
 @SpringBootApplication

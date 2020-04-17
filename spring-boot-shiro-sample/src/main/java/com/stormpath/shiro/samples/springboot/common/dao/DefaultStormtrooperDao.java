@@ -26,7 +26,7 @@ import java.util.TreeMap;
 
 /**
  * Dummy DAO that will generate 50 random Stormtroopers upon creation.
- * @author litz-a
+ * @author min
  */
 public final class DefaultStormtrooperDao implements StormtrooperDao {
 

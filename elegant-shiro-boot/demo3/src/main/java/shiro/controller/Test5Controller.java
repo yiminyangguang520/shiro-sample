@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * created by CaiBaoHong at 2018/4/18 15:51<br> 测试shiro提供的注解及功能解释
- * @author litz-a
+ * @author min
  */
 @RestController
 @RequestMapping(value = "/t5", produces = {"application/json;charset=UTF-8"})

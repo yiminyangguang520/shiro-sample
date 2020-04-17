@@ -4,7 +4,7 @@ package name.ealen.domain.vo;
 /**
  * 微信小程序 Code2Session 接口返回值 对象
  * 具体可以参考小程序官方API说明 : https://developers.weixin.qq.com/miniprogram/dev/api/open-api/login/code2Session.html
- * @author litz-a
+ * @author min
  */
 public class Code2SessionResponse {
 

@@ -9,7 +9,7 @@ import java.io.UnsupportedEncodingException;
 import java.util.Date;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class JwtUtil {
 

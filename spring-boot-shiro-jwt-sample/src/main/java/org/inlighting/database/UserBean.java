@@ -1,7 +1,7 @@
 package org.inlighting.database;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class UserBean {
 

@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
 /**
- * @author litz-a
+ * @author min
  */
 @ControllerAdvice
 public class ExceptionHandler {

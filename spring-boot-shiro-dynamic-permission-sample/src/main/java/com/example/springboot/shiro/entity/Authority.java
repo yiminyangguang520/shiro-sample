@@ -3,7 +3,7 @@ package com.example.springboot.shiro.entity;
 import java.util.Objects;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class Authority {
 

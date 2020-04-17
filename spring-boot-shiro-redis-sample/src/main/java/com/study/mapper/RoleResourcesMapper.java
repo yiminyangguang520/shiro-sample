@@ -4,7 +4,7 @@ import com.study.model.RoleResources;
 import com.study.util.MyMapper;
 
 /**
- * @author litz-a
+ * @author min
  */
 public interface RoleResourcesMapper extends MyMapper<RoleResources> {
 

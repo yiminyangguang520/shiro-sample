@@ -18,7 +18,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 
 /**
- * @author litz-a
+ * @author min
  */
 @Service("shiroService")
 public class ShiroServiceImpl implements ShiroService {
@@ -76,8 +76,9 @@ public class ShiroServiceImpl implements ShiroService {
       // 清空老的权限控制
       manager.getFilterChains().clear();
       shiroFilterFactoryBean.getFilterChainDefinitionMap().clear();
+      // 重新加载权限控制
       shiroFilterFactoryBean.setFilterChainDefinitionMap(loadFilterChainDefinitions());
-      // 重新构建生成
+      // 重新构建权限控制的过滤链
       Map<String, String> chains = shiroFilterFactoryBean.getFilterChainDefinitionMap();
       for (Map.Entry<String, String> entry : chains.entrySet()) {
         String url = entry.getKey();

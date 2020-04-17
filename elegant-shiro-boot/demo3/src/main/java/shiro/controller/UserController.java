@@ -21,7 +21,7 @@ import shiro.vo.Json;
 
 /**
  * created by CaiBaoHong at 2018/4/17 16:41<br>
- * @author litz-a
+ * @author min
  */
 @RestController
 @RequestMapping("/user")

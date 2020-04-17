@@ -24,7 +24,7 @@ import org.apache.shiro.subject.PrincipalCollection;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class ShiroRealm extends AuthorizingRealm {
 

@@ -4,7 +4,7 @@ import com.springboot.pojo.UserOnline;
 import java.util.List;
 
 /**
- * @author litz-a
+ * @author min
  */
 public interface SessionService {
 

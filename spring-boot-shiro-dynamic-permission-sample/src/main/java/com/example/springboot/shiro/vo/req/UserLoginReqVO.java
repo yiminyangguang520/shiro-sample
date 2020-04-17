@@ -1,7 +1,7 @@
 package com.example.springboot.shiro.vo.req;
 
 /**
- * @author litz-a
+ * @author min
  */
 public class UserLoginReqVO {
 
