@@ -29,7 +29,7 @@
   <properties>
     <!-- For the Maven Jetty plugin (mvn jetty:run) -->
     <jetty.version>8.1.8.v20121106</jetty.version>
-    <shiro.version>1.4.0</shiro.version>
+    <shiro.version>1.9.1</shiro.version>
     <slf4j.version>1.7.25</slf4j.version>
   </properties>
 
